@@ -1,4 +1,4 @@
-Step 1 - Clone the nexter app using git clone.
+Step 1 - Clone the nexter app using "git clone https://github.com/Itsmesachin98/nexter-app.git"
 
 Step 2 - Open the project folder in vs code.
 
